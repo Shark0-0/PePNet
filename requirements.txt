@@ -1,0 +1,7 @@
+einops
+mamba-ssm
+ninja
+numpy
+PyYAML
+timm
+torch
